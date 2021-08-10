@@ -2,7 +2,7 @@
 
 Lámpara Led RGB de sobremesa o escritorio.
 
-Potencia: 3W.
+Utiliza un LED RGB High Power tipo estrella de 3W.
 
 Control y mezcla manual de colores mediante potenciómetros dedicados:
  - Rojo, Verde y Azul (de izquierda a derecha).
